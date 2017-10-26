@@ -1,4 +1,4 @@
-# StudentCourseCreator
+# Deposit Calculator
 php lab 
 This lab project stores and retrieves information in the browser's session.
 
